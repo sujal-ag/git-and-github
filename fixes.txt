@@ -1,2 +1,3 @@
 Bug 1 fixed
 Bug 2 fixed
+Bug 3 fixed
